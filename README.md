@@ -1,4 +1,4 @@
-# Roam-Mind
+# Roam Mind
 
 > A local-first, non-linear, outliner and mind map tool
 
