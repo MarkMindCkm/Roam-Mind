@@ -32,9 +32,13 @@ Roam Mind 功能
 ![2](https://user-images.githubusercontent.com/18719494/117800394-adba6300-b285-11eb-9480-78f2d58700b4.png)
 
 Roam Mind 使用
-- [快捷键]() 
-- [markdown 语法支持]() 
-- [细节与建议]() 
+- [快捷键](https://github.com/MarkMindLtd/Roam-Mind/blob/main/%E5%BF%AB%E6%8D%B7%E9%94%AE.md) 
+- [markdown 语法支持](https://github.com/MarkMindLtd/Roam-Mind/blob/main/markdown%20%E8%AF%AD%E6%B3%95.md) 
+- [细节与建议](https://github.com/MarkMindLtd/Roam-Mind/blob/main/%E7%BB%86%E8%8A%82%E4%B8%8E%E5%BB%BA%E8%AE%AE.md) 
 
+Roam Mind 反馈
+
+- http://www.ckminder.cn/bbs
+- https://github.com/MarkMindLtd/Roam-Mind/issues
 
 
