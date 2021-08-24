@@ -1,3 +1,6 @@
+该项目已废弃，请不要在使用，过段时间将删除，这里做个提示。
+
+
 # Roam Mind
 
 > A local-first, non-linear, outliner and mind map tool
